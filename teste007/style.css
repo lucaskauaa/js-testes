@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+    background-color: #3E84DA;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, footer {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    width: 500px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.308);
+}
+
+select {
+    width: 130px;
+}
+
